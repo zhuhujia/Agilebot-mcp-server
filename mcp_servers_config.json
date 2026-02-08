@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "Agilebot MCP": {
+      "command": "C:\\ProgramData\\miniconda3\\envs\\agilesdk\\python.exe",
+      "args": ["-m", "agilebot_mcp"]
+    }
+  }
+}
